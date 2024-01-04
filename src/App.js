@@ -40,6 +40,7 @@ function App() {
                 "Selamat",
                 "Tahun",
                 "Baru",
+                "Juaniva sarah",
                 "✨HNY 2024✨",
               ])
             }
